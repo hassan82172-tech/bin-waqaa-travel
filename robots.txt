@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hassan82172-tech.github.io/bin-waqaa-travel/sitemap.xml
